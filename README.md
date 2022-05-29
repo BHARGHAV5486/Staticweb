@@ -19,6 +19,7 @@ git clone " code link "
 we can see  index.html 
 copy this file to /var/www/html
 cp index.html /var/www/html
+copy the public DNS of your instance
 
 
 
